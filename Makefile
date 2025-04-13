@@ -1,2 +1,2 @@
 hello:
-	gcc -o hello hello.c myfunk.c -I.
+	gcc -o bin/hello hello.c myfunk.c -I.
